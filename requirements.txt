@@ -1,0 +1,14 @@
+# Core dependencies
+numpy==1.21.5
+pygame==2.1.2
+torch==1.11.0
+
+# For the DQN agent
+gym==0.21.0
+
+# For logging and visualization
+tensorboard==2.8.0
+tqdm==4.64.0
+
+# Additional utilities
+matplotlib==3.5.2
